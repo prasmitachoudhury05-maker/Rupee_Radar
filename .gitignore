@@ -1,0 +1,33 @@
+# Node.js
+node_modules/
+dist/
+build/
+.npm/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+
+# Database
+*.sqlite3
+*.db
+rupeeradar.db
+backend/rupeeradar.db
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Local configuration
+.env
+.env.local
+.env.*.local
