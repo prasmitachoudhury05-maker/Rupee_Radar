@@ -8,7 +8,7 @@
 
 ## 🎥 Project Demo
 
-<video src="https://github.com/prasmitachoudhury05-maker/Rupee_Radar/raw/main/Rupee_Radar.mp4" controls="controls" style="max-width: 100%;"></video>
+<video src="Rupee_Radar.mp4" width="100%" controls="controls"></video>
 
 ---
 
