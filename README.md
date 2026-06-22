@@ -8,7 +8,7 @@
 
 ## 🎥 Project Demo
 
-👉 **[Click Here to Watch the RupeeRadar Video Demo!](https://github.com/prasmitachoudhury05-maker/Rupee_Radar/blob/main/Rupee_Radar.mp4)**
+[//]: # (Video goes here)
 
 ---
 
