@@ -6,6 +6,12 @@
 
 ---
 
+## 🎥 Project Demo
+
+<video src="https://github.com/prasmitachoudhury05-maker/Rupee_Radar/raw/main/Rupee_Radar.mp4" controls="controls" style="max-width: 100%;"></video>
+
+---
+
 ## 🚀 Features
 
 *   **🪄 AI Auto-Categorization:** Upload any CSV statement. The LLM automatically cleans up cryptic bank descriptions (e.g., "POS/ZOMATO/1234") and categorizes them accurately.
