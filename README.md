@@ -8,7 +8,9 @@
 
 ## 🎥 Project Demo
 
-<video src="Rupee_Radar.mp4" width="100%" controls="controls"></video>
+[![RupeeRadar Demo](rupeeradar-upi-spend-tracker-for-working-professionals.png)](https://github.com/prasmitachoudhury05-maker/Rupee_Radar/blob/main/Rupee_Radar.mp4)
+
+*(Click the image above to watch the full video demo!)*
 
 ---
 
